@@ -124,6 +124,8 @@ yarn
 <!-- USAGE EXAMPLES -->
 
 ## Usage
+ `
+bundle exec jekyll serve`
 
 * Run and develop locally with live server at `http://localhost:4000`, this will also build production-ready `JS` and `SCSS` assets with every change
 
