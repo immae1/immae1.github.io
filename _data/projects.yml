@@ -13,21 +13,59 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: project X
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+
+
+- name: Radcup – a socialmedia beerpong App
+
+  descr: "Radcup adds a bit of social media to the well-known game Beerpong. With Radcup the user has the possibility to register or login. Afterwards he can display/localize already existing games and join them if possible or create new games. As soon as 4 players have joined, the real match can begin on a beerpong table. Once the game is finished the host adds the result. All Players have the possibility to evaluate past games in their own statistics. "
+  demo: https://blog.mi.hdm-stuttgart.de/index.php/2019/01/17/radcup-a-socialmedia-beerpong-app/
   tags:
-    - tag: MongoDB
+    - tag: AngularJS / ionic
+    - tag: NodeJS
+    - tag: Docker
+    - tag: CI/CD
+    - tag: IBM-Cloud
+    - tag: Kubernetes
+    - tag: Gatling
+    - tag: Project Managment
+
+
+- name: RemembAR
+  descr: "A resident who wants to leave their apartment is reminded by AR glasses (EPSON Moverio) that the lights in the apartment are still on, and that his key is still in the apartment. The display in the AR glasses can be personalized (e.g. font size, position of icons)."
+  demo: https://www.hdm-stuttgart.de/remex/Labs
+  tags:
+    - tag: CI/CD 
+    - tag: Docker
+    - tag: OpenHab
+
+- name: ZDFmediathek in Autonomen Fahrzeugen
+  descr: "Es wird die Frage beantwortet, wie Nutzer in der Zukunft die ZDFmediathek in geteilten autonomen Fahrzeugen nutzen können."
+  demo: https://www.hdm-stuttgart.de/stage/projekt_detail/projekt_details?projekt_ID=2926
+  tags:
+    - tag: React
+    - tag: CI/CD 
+    - tag: Docker
+
+- name: Save the kittens
+  descr: "Student Game Project "
+  demo: http://savethekittens.de/
+  tags:
+    - tag: Construct 2
+    - tag: JS
+    - tag: Project Managment
+
+- name: Mauritius App Protoype
+  descr: "Mobile App Entwicklung Entwicklung eines Konzeptes und Prototypen für einen Gastronomiebetrieb in Stuttgart (Mauritius)"
+  demo: https://www.hdm-stuttgart.de/stage/projekt_detail/projekt_details?projekt_ID=2011
+  tags:
+    - tag: Parse BaaS
+    - tag: Docker
+    - tag: Project Managment
+
+- name: Loods - Lokale Einkaufs App
+  descr: "Einkaufs App zur Unterstützung (finden von Produkten) beim lokalen Einkaufen im Großraum Stuttgart."
+  demo: https://www.hdm-stuttgart.de/stage/projekt_detail/projekt_details?projekt_ID=1732
+  tags:
+    - tag: NodeJS 
     - tag: Express
-    - tag: AngularJS
-    - tag: Node
-
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
-  tags:
-    - tag: Python
-    - tag: Django
-
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+    - tag: Docker
