@@ -20,7 +20,7 @@ $card-bg-color: linear-gradient(
   rgba(115, 115, 115, 0.15) 15%,
   rgba(43, 45, 47, 1) 80%
 );
-$primary-color: #ff073a;
+$primary-color: #56aee9;
 
 /* General */
 
@@ -60,7 +60,7 @@ a {
 }
 
 .highlight-title {
-  color: $primary-color;
+  color: #31292b;
   text-shadow: 0.25rem 0.25rem 0.25rem $primary-color;
 }
 
@@ -309,7 +309,7 @@ a {
         colorEmail 1s linear forwards;
     }
     .social-svg {
-      fill: #d44638;
+      fill: #56aee9;
     }
   }
 
@@ -361,7 +361,7 @@ a {
 
   @keyframes colorEmail {
     to {
-      stroke: #b23121;
+      stroke: #56aee9;
     }
   }
 
@@ -392,15 +392,15 @@ a {
   }
 
   div[skill-type="language"] {
-    color: #e84a5f;
+    color: #56aee9;
   }
 
   div[skill-type="framework"] {
-    color: #ff847c;
+    color: #56e4e9;
   }
 
   div[skill-type="tool"] {
-    color: #fecea8;
+    color: #56e9bd;
   }
 
   div[skill-weight="1"] {
