@@ -38,9 +38,10 @@
     - tag: Docker
     - tag: OpenHab
 
-- name: ZDFmediathek in Autonomen Fahrzeugen
-  descr: "Es wird die Frage beantwortet, wie Nutzer in der Zukunft die ZDFmediathek in geteilten autonomen Fahrzeugen nutzen können."
-  demo: https://www.hdm-stuttgart.de/stage/projekt_detail/projekt_details?projekt_ID=2926
+- name: Broadm
+  descr: "ZDFmediathek in Autonomen Fahrzeugen: Es wird die Frage beantwortet, wie Nutzer in der Zukunft die ZDFmediathek in geteilten autonomen Fahrzeugen nutzen können."
+  demo: https://broadm.pages.mi.hdm-stuttgart.de/  
+  url: https://www.hdm-stuttgart.de/stage/projekt_detail/projekt_details?projekt_ID=2926 
   tags:
     - tag: React
     - tag: CI/CD 
@@ -54,7 +55,7 @@
     - tag: JS
     - tag: Project Managment
 
-- name: Mauritius App Protoype
+- name: Mauritius App Protoyp
   descr: "Mobile App Entwicklung Entwicklung eines Konzeptes und Prototypen für einen Gastronomiebetrieb in Stuttgart (Mauritius)"
   demo: https://www.hdm-stuttgart.de/stage/projekt_detail/projekt_details?projekt_ID=2011
   tags:

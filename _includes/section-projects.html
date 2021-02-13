@@ -12,6 +12,11 @@
             Demo
           </a>
         {% endif %}
+        {% if project.url %}
+          <a class="highlight-link" href="{{project.url}}" target="_blank" rel="noreferrer">
+            further info
+          </a>
+        {% endif %}
         {% if project.tags %}
           <div class="tag-wrapper">
             {% for tag in project.tags %}
