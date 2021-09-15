@@ -20,22 +20,23 @@
 - title: Novatec Consulting GmbH
   title-url: https://www.novatec-gmbh.de/
   date: Mar 2019 - Present
-  subtitle: Masterthesis & Cloud Consultant 
+  subtitle: Masterthesis & Cloud Consultant for Cloud Technologies & Platforms since Jul 2020
   tags:
-    - tag: Trainer 
+    - tag: Trainer for Docker & Kubernetes
     - tag: Terraform
     - tag: Docker
     - tag: Kubernetes
     - tag: Ansible
     - tag: CI/CD Pipelines
     - tag: Cloud Platform Providers (Azure, AWS, ...)
-
+    - tag: Publication: https://www.novatec-gmbh.de/news/cloudbasierte-schulungsumgebung-mit-infrastructure-as-code/ 
+    - tag: Blog: https://www.novatec-gmbh.de/en/blog/how-to-push-dynamics365-logs-into-elasticsearch-siem-system/  
   timeline-side: right
 
 - title: Stuttgart Media University 
   title-url: https://www.hdm-stuttgart.de/
   date: Mar 2018 - Jul 2020
-  subtitle: M.Sc. Computer Science (Hochschule der Medien Stuttgart)
+  subtitle: M.Sc. Computer Science (Hochschule der Medien Stuttgart) Grade: 1.2
   timeline-side: left
 
 - title: Quimron GmbH
@@ -75,7 +76,7 @@
 - title: Stuttagrt Media University 
   title-url: https://www.hdm-stuttgart.de/
   date: Mar 2013 - Jul 2017
-  subtitle: B.Sc. Medieninformatik (Hochschule der Medien Stuttgart)
+  subtitle: B.Sc. Medieninformatik (Hochschule der Medien Stuttgart) Grade 1.3
   
   timeline-side: left
 
