@@ -18,7 +18,7 @@
 - name: Radcup – a socialmedia beerpong App
 
   descr: "Radcup adds a bit of social media to the well-known game Beerpong. With Radcup the user has the possibility to register or login. Afterwards he can display/localize already existing games and join them if possible or create new games. As soon as 4 players have joined, the real match can begin on a beerpong table. Once the game is finished the host adds the result. All Players have the possibility to evaluate past games in their own statistics. "
-  demo: https://blog.mi.hdm-stuttgart.de/index.php/2019/01/17/radcup-a-socialmedia-beerpong-app/
+  url: https://blog.mi.hdm-stuttgart.de/index.php/2019/01/17/radcup-a-socialmedia-beerpong-app/
   tags:
     - tag: AngularJS / ionic
     - tag: NodeJS
