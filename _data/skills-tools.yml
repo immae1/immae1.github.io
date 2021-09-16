@@ -26,9 +26,18 @@
 - name: Terraform
   weight: 4
 
-
 - name: Ansible
   weight: 5
 
 - name: Docker
   weight: 5
+
+- name: Openstack
+  weight: 2
+
+- name: Suse Rancher
+  weight: 3
+
+- name: ELK-Stack
+  weight: 1
+    
