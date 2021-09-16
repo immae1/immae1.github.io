@@ -29,8 +29,6 @@
     - tag: Ansible
     - tag: CI/CD Pipelines
     - tag: Cloud Platform Providers (Azure, AWS, ...)
-    - tag: Publication: https://www.novatec-gmbh.de/news/cloudbasierte-schulungsumgebung-mit-infrastructure-as-code/ 
-    - tag: Blog: https://www.novatec-gmbh.de/en/blog/how-to-push-dynamics365-logs-into-elasticsearch-siem-system/  
   timeline-side: right
 
 - title: Stuttgart Media University 
