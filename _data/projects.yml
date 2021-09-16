@@ -13,7 +13,28 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-
+- name: Blog – Howto push dynamics365 logs into ELK Stack Cloud (SIEM) written @ Novatec Consulting GmbH 
+  descr: "One aspect of our cloud-platform-projects is establishing security and zero-trust architectures. Those architectures include SIEM systems. In this situation, our customer tasked us with an integration of Dynamics365 CRM audit logs into a SIEM system. What sounds very common, turned out to be not very common and hardly discussed. This article will guide through the steps we took to design a smart solution: Low-Code-Application are pushing logs into an Elasticsearch based SIEM system."
+  url: https://www.novatec-gmbh.de/en/blog/how-to-push-dynamics365-logs-into-elasticsearch-siem-system/
+  tags:
+    - tag: Azure Cloud
+    - tag: MS Dynamics365
+    - tag: ELK-Stack
+    - tag: SIEM
+    - tag: Azure Logic App
+    - tag: Low-Code
+  
+- name: Publication – cloudbased training environment with infrastructure as code written @ Novatec Consulting GmbH 
+  descr: "Wir bieten Trainings zum Thema Cloud-Computing an und lehren dabei die Software Docker und Kubernetes. Diese Softwareprodukte müssen teilweise aufwendig installiert werden. Aus diesem Grund setzen wir Schulungsumgebungen ein. Was ist dabei der Vorteil? Ganz einfach: In dieser Umgebung sind alle für ein Training notwendigen Softwarepakete vorab konfiguriert. Dies gelingt mit Hilfe von Infrastructure as Code (IaC) – Vor allem durch die Softwarekomponenten Ansible, Docker, Terraform und Kubernetes."
+  url: https://www.novatec-gmbh.de/news/cloudbasierte-schulungsumgebung-mit-infrastructure-as-code/ 
+  tags:
+    - tag: Azure Cloud
+    - tag: Docker
+    - tag: CI/CD
+    - tag: Kubernetes
+    - tag: Ansible
+    - tag: Hugo
+    - tag: Apache Guacamole
 
 - name: Radcup – a socialmedia beerpong App
 
