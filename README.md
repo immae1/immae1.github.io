@@ -1,5 +1,6 @@
 # Neumorphism <!-- omit in toc -->
 
+[![pages-build-deployment](https://github.com/immae1/immae1.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/immae1/immae1.github.io/actions/workflows/pages/pages-build-deployment) 
 > Neumorphism designed Jekyll theme for personal websites, portfolios and resumes.
 
 * Featured on [JAMstack Themes](https://jamstackthemes.dev/theme/jekyll-neumorphism/)
