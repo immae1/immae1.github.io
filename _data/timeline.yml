@@ -17,9 +17,25 @@
 #     - tag: Rails
 #   timeline-side: right
 
+- title: Robert Bosch GmbH 
+  title-url: https://www.bosch.com
+  date: Jan 2023 - Present
+  subtitle: DevOps Engineer / (IaC)loud Architect
+  tags:
+    - tag: Terraform / IaC
+    - tag: Docker / Container
+    - tag: Security
+    - tag: Network
+    - tag: Kubernetes
+    - tag: CI/CD Pipelines
+    - tag: ArgoCD
+    - tag: Github 
+    - tag: Cloud Platform Providers (Azure)
+  timeline-side: left
+
 - title: Novatec Consulting GmbH
   title-url: https://www.novatec-gmbh.de/
-  date: Mar 2019 - Present
+  date: Mar 2019 - Dez 2022
   subtitle: Masterthesis & Cloud Consultant for Cloud Technologies & Platforms since Jul 2020
   tags:
     - tag: Trainer for Docker & Kubernetes
