@@ -31,7 +31,7 @@
     - tag: ArgoCD
     - tag: Github 
     - tag: Cloud Platform Providers (Azure)
-  timeline-side: left
+  timeline-side: right
 
 - title: Novatec Consulting GmbH
   title-url: https://www.novatec-gmbh.de/
