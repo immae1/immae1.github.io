@@ -24,7 +24,7 @@
     - tag: Azure Logic App
     - tag: Low-Code
   
-- name: Publication – cloudbased training environment with infrastructure as code written @ Novatec Consulting GmbH 
+- name: Publication – cloudbased training environment with infrastructure as code written @ Novatec Consulting GmbH - also here https://www.sigs.de/artikel/cloudbasierte-schulungen/
   descr: "Wir bieten Trainings zum Thema Cloud-Computing an und lehren dabei die Software Docker und Kubernetes. Diese Softwareprodukte müssen teilweise aufwendig installiert werden. Aus diesem Grund setzen wir Schulungsumgebungen ein. Was ist dabei der Vorteil? Ganz einfach: In dieser Umgebung sind alle für ein Training notwendigen Softwarepakete vorab konfiguriert. Dies gelingt mit Hilfe von Infrastructure as Code (IaC) – Vor allem durch die Softwarekomponenten Ansible, Docker, Terraform und Kubernetes."
   url: https://www.novatec-gmbh.de/news/cloudbasierte-schulungsumgebung-mit-infrastructure-as-code/ 
   tags:
