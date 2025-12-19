@@ -31,6 +31,7 @@
     - tag: ArgoCD
     - tag: Github 
     - tag: Cloud Platform Providers (Azure)
+    - tag: Databricks
   timeline-side: right
 
 - title: Novatec Consulting GmbH
